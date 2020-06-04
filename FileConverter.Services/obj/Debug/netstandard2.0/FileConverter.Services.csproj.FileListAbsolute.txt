@@ -1,0 +1,7 @@
+C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\bin\Debug\netstandard2.0\FileConverter.Services.deps.json
+C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\bin\Debug\netstandard2.0\FileConverter.Services.dll
+C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\bin\Debug\netstandard2.0\FileConverter.Services.pdb
+C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\obj\Debug\netstandard2.0\FileConverter.Services.AssemblyInfoInputs.cache
+C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\obj\Debug\netstandard2.0\FileConverter.Services.AssemblyInfo.cs
+C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\obj\Debug\netstandard2.0\FileConverter.Services.dll
+C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\obj\Debug\netstandard2.0\FileConverter.Services.pdb

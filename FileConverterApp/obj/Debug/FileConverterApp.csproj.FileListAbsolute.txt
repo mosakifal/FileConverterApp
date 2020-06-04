@@ -1,0 +1,22 @@
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\FileConverterApp.exe.config
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\FileConverterApp.exe
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\FileConverterApp.pdb
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\Autofac.dll
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\C5.dll
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\FileConverter.Services.dll
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\Plossum CommandLine.dll
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\FileConverter.Services.pdb
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\Autofac.pdb
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\Autofac.xml
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\obj\Debug\FileConverterApp.csprojAssemblyReference.cache
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\obj\Debug\FileConverterApp.csproj.CopyComplete
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\obj\Debug\FileConverterApp.exe
+C:\Users\mosak\source\repos\FileConverterApp\FileConverterApp\obj\Debug\FileConverterApp.pdb
