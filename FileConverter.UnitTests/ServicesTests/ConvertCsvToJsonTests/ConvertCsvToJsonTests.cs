@@ -25,19 +25,6 @@ namespace FileConverter.UnitTests.ServicesTests.ConvertCsvToJsonTests
         }
 
         [TestMethod]
-        public void ConverCsvToJson_Verifies_FileExists()
-        {
-            //Arrage
-            _filePath = "";
-
-            //Act
-            bool result = _convertservice.Convert(_filePath);
-
-            //Assert
-            Assert.AreEqual(result, false);
-        }
-
-        [TestMethod]
         public void ConverCsvToJson_Converts_File_ToJson()
         {
             //Arrage

@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace FileConverter.Services.Helper
+namespace FileConverter.Services.Helpers
 {
     public class CsvReader
     {
@@ -14,11 +14,15 @@ namespace FileConverter.Services.Helper
 
             var formatedLines = new List<string>();
 
-            foreach (var line in lines)
+            if (lines.Any())
             {
-                var formatedLine = line.TrimEnd(',');
-                formatedLines.Add(formatedLine);
+                foreach (var line in lines)
+                {
+                    var formatedLine = line.TrimEnd(',');
+                    formatedLines.Add(formatedLine);
+                }
             }
+
             return formatedLines;
         }
     }

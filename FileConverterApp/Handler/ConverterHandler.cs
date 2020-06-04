@@ -3,6 +3,7 @@ using FileConverter.Services.CsvToJson;
 using FileConverter.Services.CsvToXml;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,11 @@ namespace FileConverterApp.Handler
         public bool Convert(Options options)
         {
             bool success = false;
+
+            if (!File.Exists(options.FilePath))
+            {
+                return success;
+            }
 
             ConversionTypes type;
             Enum.TryParse(options.ConvertTo, out type);
