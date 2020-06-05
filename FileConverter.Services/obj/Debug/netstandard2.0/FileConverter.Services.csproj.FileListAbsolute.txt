@@ -5,3 +5,4 @@ C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\obj\Debug\ne
 C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\obj\Debug\netstandard2.0\FileConverter.Services.AssemblyInfo.cs
 C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\obj\Debug\netstandard2.0\FileConverter.Services.dll
 C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\obj\Debug\netstandard2.0\FileConverter.Services.pdb
+C:\Users\mosak\source\repos\FileConverterApp\FileConverter.Services\obj\Debug\netstandard2.0\FileConverter.Services.csprojAssemblyReference.cache

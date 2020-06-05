@@ -40,9 +40,7 @@ namespace FileConverter.Services.CsvToJson
                 }
                 catch (Exception ex)
                 {
-                    success = false;
-
-                    var baseException = ex.GetBaseException();
+                    throw ex;                  
                 }
             }
             else

@@ -20,14 +20,15 @@ namespace FileConverter.UnitTests.ServicesTests.ConvertCsvToJsonTests
             _filePath = Path.Combine(Path.GetDirectoryName(Path.GetDirectoryName(Path.GetDirectoryName(
                 System.Reflection.Assembly.GetExecutingAssembly().GetName().CodeBase))), "ServicesTests/ConvertCsvToJsonTests/TestFile.csv");
 
-            _convertedFilePath = Path.Combine(Path.GetDirectoryName(Path.GetDirectoryName(Path.GetDirectoryName(
-                System.Reflection.Assembly.GetExecutingAssembly().GetName().CodeBase))), "ServicesTests/ConvertCsvToJsonTests/TestFile.json");
+            _filePath = _filePath.Replace("file:\\", "");
+
+            _convertedFilePath = _filePath.Replace(".csv", ".json");
         }
 
         [TestMethod]
         public void ConverCsvToJson_Converts_File_ToJson()
         {
-            //Arrage
+            //Arrange
 
             //Act
             bool result = _convertservice.Convert(_filePath);
