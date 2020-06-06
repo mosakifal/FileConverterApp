@@ -13,8 +13,7 @@ namespace FileConverter.Services.CsvToJson
         {
             var success = false;
 
-            var csvReader = new CsvReader();
-            var formatedLines = csvReader.LoadCsv(FilePath);
+            var formatedLines = CsvReader.LoadCsv(FilePath);
             if(formatedLines.Any())
             {
                 var headers = formatedLines[0].Split(',').ToArray();
@@ -28,7 +27,7 @@ namespace FileConverter.Services.CsvToJson
 
                 Dictionary<String, Object> address = new Dictionary<String, Object>();
                 result[addressHeaderPart1[0]] = address;
-                address[addressHeaderPart2[1]] = values[1];
+                address[addressHeaderPart1[1]] = values[1];
                 address[addressHeaderPart2[1]] = values[2];
 
                 try

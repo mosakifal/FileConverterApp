@@ -8,7 +8,7 @@ namespace FileConverter.Services.Helpers
 {
     public class CsvReader
     {
-        public List<string> LoadCsv(string filePath)
+        public static List<string> LoadCsv(string filePath)
         {
             var lines = File.ReadAllLines(filePath).ToList();
 
